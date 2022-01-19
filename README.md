@@ -4,6 +4,7 @@
 수업에서 제공하는 디자인과 기능 구현 예시만 참고했으며, 스스로 기능들을 구현하고, 더 나아가 기능을 추가적으로 구현하였습니다.
 
 ![web](https://user-images.githubusercontent.com/58885393/150119882-f0f40abf-96c8-48cb-a7b6-f8396e53de7b.JPG)
+![mobile](https://user-images.githubusercontent.com/58885393/150120660-5bfd3687-6cb3-49e0-8a6b-fadcb399d294.JPG)
 
 ### 링크
 ---

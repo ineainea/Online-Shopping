@@ -150,3 +150,43 @@ title {
   font-size: 1.2em;
   font-weight: 600;
 }
+
+@media screen and (max-width: 768px) {
+  :root {
+    /* color */
+    --color-black: #3f454d;
+    --color-white: #ffffff;
+    --color-blue: #3b88c3;
+    --color-yellow: #fbbe28;
+    --color-pink: #fd7f84;
+    --color-light-grey: #dfdfdf;
+  }
+
+  title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+  }
+  .logo {
+    margin: 0;
+  }
+
+  .menu__button {
+    height: 5.5rem;
+    margin: 0.3rem;
+  }
+
+  .cloth__button,
+  .text__button {
+    width: 50%;
+    height: 50%;
+    margin: 0 0.2rem;
+  }
+  #items {
+    width: 10rem;
+  }
+  #item {
+    width: 23rem;
+  }
+}

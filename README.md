@@ -27,6 +27,7 @@ https://ineainea.github.io/Online-Shopping/
 ### 주요기능
 ---
 ![web_random](https://user-images.githubusercontent.com/58885393/150120714-fb5e1520-d71a-4ea1-92f2-650c9b2ef4b9.gif)
+
 ![mobil_random](https://user-images.githubusercontent.com/58885393/150120879-fa87d3e3-da4e-4ee8-935c-8f1be7aaba52.gif)
 * VanillaJS를 이용해 페이지 오픈 시 매번 랜덤한 item list 
 ![menu_filter](https://user-images.githubusercontent.com/58885393/150120887-c94bb405-1a29-4dcb-9946-b1d62da129d2.gif)

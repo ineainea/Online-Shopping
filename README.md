@@ -20,3 +20,8 @@ https://ineainea.github.io/Online-Shopping/
 ### 개발 기간
 ---
 * 2022.01.19
+### 주요기능
+---
+* VanillaJS를 이용해 페이지 오픈 시 매번 랜덤한 item list 
+* VanillaJS를 이용해 이미지 item list 출력
+* 메뉴 선택 시 해당 메뉴에 맞게 item filtering

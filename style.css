@@ -161,6 +161,9 @@ title {
     --color-pink: #fd7f84;
     --color-light-grey: #dfdfdf;
   }
+  body {
+    width: 100%;
+  }
 
   title {
     display: flex;

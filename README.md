@@ -1,6 +1,6 @@
 # Online Shopping
 ### Description
-'Dream Coding 엘리'에서 수강하고 있는 [쇼핑몰 미니게임]을 바탕으로 제작하였습니다.
+'Dream Coding 엘리'에서 수강하고 있는 [쇼핑몰 미니게임]을 바탕으로 제작하였습니다.<br>
 수업에서 제공하는 디자인과 기능 구현 예시만 참고했으며, 스스로 기능들을 구현하고, 더 나아가 기능을 추가적으로 구현하였습니다.
 ### 링크
 https://ineainea.github.io/Online-Shopping/

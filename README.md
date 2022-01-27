@@ -41,18 +41,16 @@
 
 ```jsx
 function randomArray() {
-    // 마지막에 랜덤 값을 넣어 반환하기위한 빈 객체 초기화
     let resultArray = [];
-    // 전역변수로 있는 배열들의 길이만큼 랜덤을 돌리고 각 변수에 할당
+    
     const randomColor = Math.floor(Math.random() * color.length);
     const randomCloth = Math.floor(Math.random() * cloth.length);
     const randomGender = Math.floor(Math.random() * gender.length);
     const randomSize = Math.floor(Math.random() * size.length);
-    //  뽑아낸 랜덤값 확인을 위한 콘솔로그
+    
     console.log(`randomColor: ${randomColor}, randomCloth: ${randomCloth}, randomGender: ${randomGender}, randomSize: ${randomSize}`);
-    // 뽑아낸 랜던값을 Index[]를 이용히여, 전역변수로 있는 배열들의 값을 가져옴
     console.log(`${color[randomColor]}, ${cloth[randomCloth]}, ${gender[randomGender]}, ${size[randomSize]}`);
-    // 가쟈온 전역변수 배열의 값을 resultArray에 넣어줌
+
     resultArray = [color[randomColor], cloth[randomCloth], gender[randomGender], size[randomSize]];
     console.log('resultArray: ' + resultArray);
     return resultArray;
@@ -64,10 +62,8 @@ function randomArray() {
 
 ```jsx
 items.forEach((item) => {
-        // filter와 type 값이 동일한 것들은 invisible를 삭제함으로서 보이게 하고
         if(filter === item.dataset.type1 || filter === item.dataset.type2) {
             item.classList.remove('invisible');
-        // filter와 type 값이 동일하지 않은 것들은 invisible를 활성화 시켜 사라지게 한다.
         } else {
             item.classList.add('invisible');
         }
